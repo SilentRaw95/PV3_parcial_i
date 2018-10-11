@@ -1,0 +1,7 @@
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\bin\Debug\Tarea_2.exe.config
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\bin\Debug\Tarea_2.exe
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\bin\Debug\Tarea_2.pdb
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\obj\Debug\Tarea_2.csprojAssemblyReference.cache
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\obj\Debug\Tarea_2.exe
+C:\Users\maike\Desktop\Tarea_2\Tarea_2\obj\Debug\Tarea_2.pdb

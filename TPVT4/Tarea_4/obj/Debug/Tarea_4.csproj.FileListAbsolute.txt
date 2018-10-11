@@ -1,0 +1,7 @@
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\bin\Debug\Tarea_4.exe.config
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\bin\Debug\Tarea_4.exe
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\bin\Debug\Tarea_4.pdb
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\obj\Debug\Tarea_4.csprojAssemblyReference.cache
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\obj\Debug\Tarea_4.csproj.CoreCompileInputs.cache
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\obj\Debug\Tarea_4.exe
+C:\Users\maike\Desktop\Tarea_4\Tarea_4\obj\Debug\Tarea_4.pdb

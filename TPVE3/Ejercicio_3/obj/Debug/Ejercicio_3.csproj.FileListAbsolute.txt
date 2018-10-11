@@ -1,0 +1,30 @@
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csprojAssemblyReference.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\MainWindow.g.cs
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\App.g.cs
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3_MarkupCompile.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3_MarkupCompile.lref
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\MainWindow.baml
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.g.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.GenerateResource.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\bloque_1\En clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.pdb
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csprojAssemblyReference.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\MainWindow.g.cs
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\App.g.cs
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3_MarkupCompile.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3_MarkupCompile.lref
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\MainWindow.baml
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.g.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.GenerateResource.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Clase\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.pdb

@@ -1,0 +1,10 @@
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\bin\Debug\Tarea_5.exe.config
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\bin\Debug\Tarea_5.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\bin\Debug\Tarea_5.pdb
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.csprojAssemblyReference.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.csproj.GenerateResource.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.csproj.CoreCompileInputs.cache
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.exe
+C:\Users\maike\Desktop\Escuela\Programacion 3\Taller\Bloque_1\Tarea\Tarea_5\Tarea_5\obj\Debug\Tarea_5.pdb
